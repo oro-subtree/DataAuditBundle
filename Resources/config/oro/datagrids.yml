@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     audit-grid:
         acl_resource: oro_dataaudit_history
         options:
